@@ -1,7 +1,7 @@
 {
-  "name": "rehan-wget",
-  "version": "3.0.0",
-  "author": "Rehan Mahmood",
+  "name": "ffquintella-wget",
+  "version": "3.0.1",
+  "author": "Felipe Quintella",
   "summary": "Install, manage and configure wget and retrieve files using it",
   "license": "Apache-2.0",
   "source": "https://github.com/rehanone/puppet-wget.git",
@@ -85,7 +85,7 @@
     "download",
     "archive"
   ],
-  "pdk-version": "2.5.0",
-  "template-url": "pdk-default#2.5.0",
-  "template-ref": "tags/2.5.0-0-g369d483"
+  "pdk-version": "3.0.0",
+  "template-url": "pdk-default#3.0.0",
+  "template-ref": "tags/3.0.0-0-g056e50d"
 }
